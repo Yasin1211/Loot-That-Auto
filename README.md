@@ -19,7 +19,8 @@ CHANGELOGS
 	v1.0
 	- Mod release and first functionable build
 	- You can now search and loot every vehicle in Vice City and finding cash, you just need to get inside the vehicle!
-INFO	
+More information about the GTA:VC version...	
+
 	- * SCRIPT/MOD CREATED BY LORDJACKSON *
 	- * IF YOU WANT TO SUPPORT, JUST TAKE A LOOK AT MY YOUTUBE CHANNEL*
 	- * https://www.youtube.com/channel/UCaJGjF42RniDvBAYh-OfAUw * 
