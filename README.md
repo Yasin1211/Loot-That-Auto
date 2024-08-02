@@ -4,8 +4,7 @@
 A simple CLEO script mod that allows you to rob/loot every car ingame for GTA 
 *(only GTA: Vice City version available for now)*
 # for GTA: Vice City
-
- 
+ https://github.com/Yasin1211/Loot-That-Auto/releases/tag/vicecity
 # for GTA: 3
 WORK IN PROGRESS
 # for GTA: San Andreas
