@@ -1,0 +1,9 @@
+# FUTURE UPDATES
+
+Plans for future updates
+
+  - If you loot police vehicles, you will find weapons/ammo...
+  - If you loot gang vehicles, you will find more money than usual...
+  - Add voice/audio for when looting
+  - LOOT THAT AUTO FOR GTA 3 AND SAN ANDREAS COMING SOON...
+  - This mod might end up having a ScriptHook version for GTA 5 and GTA 4 (i hope so)
