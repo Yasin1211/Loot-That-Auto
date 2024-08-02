@@ -11,7 +11,7 @@ SCREENSHOTS
 LOOT THAT AUTO v1.1 for PC CLEO
 
 	- Loot every vehicle in Vice City!
- 
+
 INSTALLATION
 
 	- Copy/Cut the "lootthatauto_EN.cs" file and paste it in the "Cleo" folder located in your GTA: Vice City main directory
