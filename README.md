@@ -1,8 +1,12 @@
 # Loot-That-Auto
 *You can now loot every vehicle ingame!*
-
+A simple CLEO script mod that allows you to rob/loot every car ingame for GTA 
+*(only GTA: Vice City version available for now)*
 # for GTA: Vice City
+SCREENSHOTS
 ![Sin título](https://github.com/user-attachments/assets/b65168c2-c4e8-47e7-8c41-bb31e7883863)
+![Screenshot_1](https://github.com/user-attachments/assets/42172043-b1b9-4674-9102-c2d196203bc7)
+![Screenshot_3](https://github.com/user-attachments/assets/faa24cfc-b81b-452d-a2a3-c7bc88e17622)
 LOOT THAT AUTO v1.1
 	
 	- Loot every vehicle in Vice City!
