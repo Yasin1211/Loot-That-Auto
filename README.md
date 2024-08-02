@@ -20,15 +20,18 @@ CHANGELOGS
 	- Mod release and first functionable build
 	- You can now search and loot every vehicle in Vice City and finding cash, you just need to get inside the vehicle!
 INFO	
-	* SCRIPT/MOD CREATED BY LORDJACKSON *
-	* IF YOU WANT TO SUPPORT, JUST TAKE A LOOK AT MY YOUTUBE CHANNEL*
-	* https://www.youtube.com/channel/UCaJGjF42RniDvBAYh-OfAUw * 
-	* MADE IN SANNY BUILDER 3 *
-	* SPECIAL THANKS TO Jwalin Bhatt *
-	* HE TEACHED ME THE BASICS *
-	* LOOK AT HIS CHANNEL WITH COOL STUFF AND SOME USEFUL VC SCRIPTING TUTORIALS FOR BEGINNERS: https://www.youtube.com/@JwalinBhatt *
+	- * SCRIPT/MOD CREATED BY LORDJACKSON *
+	- * IF YOU WANT TO SUPPORT, JUST TAKE A LOOK AT MY YOUTUBE CHANNEL*
+	- * https://www.youtube.com/channel/UCaJGjF42RniDvBAYh-OfAUw * 
+	- * MADE IN SANNY BUILDER 3 *
+	- * SPECIAL THANKS TO Jwalin Bhatt *
+	- * HE TEACHED ME THE BASICS *
+	- * LOOK AT HIS CHANNEL WITH COOL STUFF AND SOME USEFUL VC SCRIPTING TUTORIALS FOR BEGINNERS: https://www.youtube.com/@JwalinBhatt *
+ 
+# for GTA: 3
+WORK IN PROGRESS
+# for GTA: San Andreas
+WORK IN PROGRESS
 
 
-START MODDING AND CREATING TODAY, ENJOY THE MOD !
 
-ANY BUGS FOUND OR SUGGESTIONS?, SEND AN EMAIL TO papusco555@gmail.com
