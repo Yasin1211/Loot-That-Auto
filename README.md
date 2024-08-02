@@ -1,5 +1,5 @@
 # Loot-That-Auto
-You can now loot every vehicle ingame!
+*You can now loot every vehicle ingame!*
 
 # for GTA: Vice City 
 LOOT THAT AUTO v1.1
