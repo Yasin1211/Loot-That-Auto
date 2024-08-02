@@ -1,3 +1,4 @@
+![Sin título](https://github.com/user-attachments/assets/b65168c2-c4e8-47e7-8c41-bb31e7883863)
 # Loot-That-Auto
 *You can now loot every vehicle ingame!*
 
@@ -5,7 +6,7 @@
 LOOT THAT AUTO v1.1
 	
 	- Loot every vehicle in Vice City!
-	
+
 INSTALLATION
 
 	- Copy/Cut the "lootthatauto_EN.cs" file and paste it in the "Cleo" folder located in your GTA: Vice City main directory
