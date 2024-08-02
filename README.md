@@ -1,5 +1,7 @@
 # Loot-That-Auto
-*You can now loot every vehicle ingame!*
+*There is lots of people who let their wallets or money inside the car during a Grand Theft Auto or a simple car theft situation, so...*
+*... you can now loot every vehicle ingame!*
+
 A simple CLEO script mod that allows you to rob/loot every car ingame for GTA 
 *(only GTA: Vice City version available for now)*
 # for GTA: Vice City
