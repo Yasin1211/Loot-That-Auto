@@ -9,6 +9,9 @@ A simple CLEO script mod that allows you to rob/loot every car ingame for GTA
 Created by lordjackson121 (Yasin121)
 
 My YouTube Channel: https://www.youtube.com/@lordjackson121
+
+My GTA Inside official profile: https://www.gtainside.com/user/lordjackson121
+
 # for GTA: Vice City
 
 Loot That Auto v1.2
