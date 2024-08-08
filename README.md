@@ -10,6 +10,9 @@ Created by lordjackson121 (Yasin121)
 
 My YouTube Channel: https://www.youtube.com/@lordjackson121
 # for GTA: Vice City
+
+Loot That Auto v1.2
+
  https://github.com/Yasin1211/Loot-That-Auto/releases/tag/vicecity
 # for GTA: 3
 WORK IN PROGRESS
